@@ -1,0 +1,3 @@
+En esta instancia deben crear un archivo en forma local informando que encontraron 
+un error en su código y luego proponerlo como posible cambio al proyecto de su compañero. 
+Para que su compañero reciba esa solicitud y apruebe los cambios.
